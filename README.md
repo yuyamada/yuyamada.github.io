@@ -1,1 +1,0 @@
-# yuyamada.github.io
