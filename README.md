@@ -8,7 +8,7 @@
 - Go, Python, Ruby, TypeScript
 - AWS
 - Kubernetes
-- Natulal Language Processing
+- 自然言語処理
 
 ## Publications
 - [GitHub Actions でテストを並列化して CI 時間を短縮する](https://tech.gunosy.io/entry/actions_parallel)
